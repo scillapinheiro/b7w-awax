@@ -1,17 +1,25 @@
-# Awax
+<h1 align="center">Awax<h1>
 
-![alt text](https://github.com/scillapinheiro/b7w_awax/blob/main/free-psd-multipurpose-landing-page-d4.jpg?raw=true)
+<p align="center">
+  <img width="600" height="400" src="https://github.com/scillapinheiro/b7w_awax/blob/main/free-psd-multipurpose-landing-page-d4.jpg">
+</p>
 
-## Projetos
+## 💻 Projetos
 Projeto realizado durante o módulo **HTML5 e CSS5** do curso *FullStack* da **B7Web**.
+
 Lembrando que é apenas para fins de estudo e foram utilizadas somentes as tecnologias do módulo deste curso.
 
 
-## Tecnologias
+## 🚀 Tecnologias
 
 - HTML5
 - CSS3
 
+  
+## 👀 Site de Demostração
+Você pode acessar o site em:
+https://scillapinheiro.github.io/b7w_awax/
 
-## Design
-Template criado por Alexandr Bukin.
+
+## 🔖 Layout
+Design criado por Alexandr Bukin.
