@@ -1,7 +1,7 @@
 <h1 align="center">Awax<h1>
 
 <p align="center">
-  <img width="800" height="600" src="https://github.com/scillapinheiro/b7w_awax/blob/main/free-psd-multipurpose-landing-page-d4.jpg">
+  <img width="100%" style="max-width:100%" src="https://github.com/scillapinheiro/b7w_awax/blob/main/free-psd-multipurpose-landing-page-d4.jpg">
 </p>
 
 ## 💻 Projetos
@@ -17,9 +17,8 @@ Lembrando que é apenas para fins de estudo e foram utilizadas somentes as tecno
 
   
 ## 👀 Site de Demonstração
-Você pode acessar o site em:
-https://scillapinheiro.github.io/b7w_awax/
+Você pode acessar o site <a href="https://scillapinheiro.github.io/b7w_awax/">aqui.</a>
 
 
 ## 🔖 Layout
-Design criado por Alexandr Bukin.
+Design criado por Alexandr Bukin. Você pode visualizar o layout do projeto no <a href="https://www.behance.net/gallery/58301549/Free-Landing-PageBehance Behance">Behance.</a>
