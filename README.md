@@ -5,7 +5,7 @@
 </p>
 
 ## 💻 Projetos
-Projeto realizado durante o módulo **HTML5 e CSS5** do curso *FullStack* da **B7Web**.
+Projeto realizado durante o módulo **HTML5 e CSS3** do curso *FullStack* da **B7Web**.
 
 Lembrando que é apenas para fins de estudo e foram utilizadas somentes as tecnologias desse módulo.
 
