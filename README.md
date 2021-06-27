@@ -1,7 +1,7 @@
 <h1 align="center">Awax<h1>
 
 <p align="center">
-  <img width="800" height="400" src="https://github.com/scillapinheiro/b7w_awax/blob/main/free-psd-multipurpose-landing-page-d4.jpg">
+  <img width="800" height="600" src="https://github.com/scillapinheiro/b7w_awax/blob/main/free-psd-multipurpose-landing-page-d4.jpg">
 </p>
 
 ## 💻 Projetos
