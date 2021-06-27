@@ -16,7 +16,7 @@ Lembrando que é apenas para fins de estudo e foram utilizadas somentes as tecno
 - CSS3
 
   
-## 👀 Site de Demostração
+## 👀 Site de Demonstração
 Você pode acessar o site em:
 https://scillapinheiro.github.io/b7w_awax/
 
