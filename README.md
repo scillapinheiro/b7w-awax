@@ -4,13 +4,13 @@
   <img width="100%" style="max-width:100%" src="https://github.com/scillapinheiro/b7w_awax/blob/main/free-psd-multipurpose-landing-page-d4.jpg">
 </p>
 
-## 💻 Projetos
-Projeto realizado durante o módulo **HTML5 e CSS3** do curso *FullStack* da **B7Web**.
+## 💻 Projeto
+Projeto realizado durante o módulo **HTML5 e CSS3** do curso <a href="https://b7web.com.br/">FullStack da B7Web.</a>
 
 Lembrando que é apenas para fins de estudo e foram utilizadas somentes as tecnologias desse módulo.
 
 
-## 🚀 Tecnologias
+## 🚀 Linguagens
 
 - HTML5
 - CSS3
