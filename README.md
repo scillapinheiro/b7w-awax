@@ -1,6 +1,21 @@
+<p align="center">
+  <img src="https://github.com/scillapinheiro/b7w_awax/blob/main/logo-b7w_awax.png" width="50%">
+</p>
+
+<p align="center">
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-site-de-demonstração">Site de demonstração</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licença">Licença</a>
+</p>
+
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=blue&labelColor=grey">
+</p>
+
 <h1 align="center">Awax<h1>
 
-  
 <p align="center">
   <img width="100%" style="max-width:100%" src="https://github.com/scillapinheiro/b7w_awax/blob/main/free-psd-multipurpose-landing-page-d4.jpg">
 </p>
@@ -8,7 +23,7 @@
 ## :computer: Projeto
 Projeto realizado durante o módulo **HTML5 e CSS3** do curso [FullStack da B7Web](https://b7web.com.br/fullstack/).
 
-## :rocket: Linguagens
+## :rocket: Tecnologias
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   
 ## :eyes: Site de demonstração
