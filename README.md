@@ -29,7 +29,7 @@ Projeto realizado durante o módulo **HTML5 e CSS3** do curso [FullStack da B7We
 ## :eyes: Site de demonstração
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-Você pode acessar o site [aqui.](https://scillapinheiro.github.io/b7w_awax/)
+Você pode acessar o site [aqui.](https://b7web-awax.netlify.app/)
 
 ## :bookmark: Layout
 Design criado por Alexandr Bukin. Você pode visualizar o layout do projeto no [Behance](https://www.behance.net/gallery/58301549/Free-Landing-PageBehance).
