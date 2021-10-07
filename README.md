@@ -1,9 +1,9 @@
+<h1 align="center">Awax<h1>
+
 <p align="center">
   <img width="100%" style="max-width:100%" src="https://github.com/scillapinheiro/b7w_awax/blob/main/free-psd-multipurpose-landing-page-d4.jpg">
 </p>
 
-<h1 align="center">Awax<h1>
-  
 ## :computer: Projeto
 Projeto realizado durante o módulo **HTML5 e CSS3** do curso [FullStack da B7Web](https://b7web.com.br/fullstack/).
 
