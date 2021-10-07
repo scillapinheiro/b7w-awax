@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/scillapinheiro/b7w-awax/blob/main/logo-b7web.png" width="50%">
+  <img src="https://github.com/scillapinheiro/b7w-awax/blob/main/logo-b7web.png">
 </p>
 
 <p align="center">
