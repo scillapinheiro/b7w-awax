@@ -17,7 +17,7 @@
 <h1 align="center">Awax<h1>
 
 <p align="center">
-  <img width="100%" style="max-width:100%" src="https://github.com/scillapinheiro/b7w-awax/blob/main/free-psd-multipurpose-landing-page-d4.jpg">
+  <img width="100%" style="max-width:100%" src="https://github.com/scillapinheiro/b7w-awax/blob/main/awax-mockup.png">
 </p>
 
 ## :computer: Projeto
