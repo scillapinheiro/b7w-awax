@@ -254,8 +254,6 @@ header {
 }
 
 
-
-
 /*AREAS EXPECIFICAS*/
 .section-about-us {
     display: flex;
@@ -354,7 +352,7 @@ header {
 }
 
 .projects-filters li a {
-    font: 400 13px Montserrat;
+    font: 400 12px Montserrat;
     color: var(--grey);
     text-transform: uppercase;
 
@@ -1451,6 +1449,10 @@ footer {
         border: none;
     }
 
+    .service:first-child {
+        border-left: none;
+    }    
+
     .section-projects .projects-filters {
         margin: 30px;
 
@@ -1619,6 +1621,7 @@ footer {
     }
 
     .section-footer {
+        width: auto;
         flex-direction: column;
     }
 
