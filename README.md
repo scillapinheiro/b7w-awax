@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/scillapinheiro/b7w_awax/blob/main/logo-b7w.png" width="50%">
+  <img src="https://github.com/scillapinheiro/b7w-awax/blob/main/logo-b7web.png" width="50%">
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 <h1 align="center">Awax<h1>
 
 <p align="center">
-  <img width="100%" style="max-width:100%" src="https://github.com/scillapinheiro/b7w_awax/blob/main/free-psd-multipurpose-landing-page-d4.jpg">
+  <img width="100%" style="max-width:100%" src="https://github.com/scillapinheiro/b7w-awax/blob/main/free-psd-multipurpose-landing-page-d4.jpg">
 </p>
 
 ## :computer: Projeto
